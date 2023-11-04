@@ -168,7 +168,7 @@ class _HomeScreenState extends State<HomeScreen> {
         ),
         Positioned.fill(
             child: Align(
-                alignment: Alignment.center,
+                alignment: Alignment.topRight,
                 child: _getMarker()
             )
         )
